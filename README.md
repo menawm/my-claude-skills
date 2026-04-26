@@ -8,6 +8,12 @@ Works in **Claude Code** and **Claude Cowork** (claude.ai).
 
 ---
 
+## *What's GitHub?*
+
+Think of GitHub as Google Drive, but for code. Instead of sharing photos and files, people use GitHub to share code and snippets like this skill. You're on a GitHub page right now.
+
+---
+
 ## What's a skill?
 
 A skill is a small set of instructions you give to your AI. Think of it like a job description for a specific task. Once installed, you can trigger it with a phrase and Claude knows exactly how to handle it.
