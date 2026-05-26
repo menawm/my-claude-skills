@@ -1,4 +1,3 @@
-# my-claude-skills
 # My Claude Skills
 
 A collection of Claude skills I use personally.
